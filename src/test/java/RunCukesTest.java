@@ -9,5 +9,5 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = {"nicebank"})
 
-public class RunTest {
+public class RunCukesTest {
 }
