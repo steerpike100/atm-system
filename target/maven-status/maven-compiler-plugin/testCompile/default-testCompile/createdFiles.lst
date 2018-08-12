@@ -1,5 +1,7 @@
 nicebank\AccountSteps.class
+support\AtmUserInterface.class
 RunCukesTest.class
 support\KnowsTheDomain.class
 nicebank\TellerSteps.class
 nicebank\CashSlotSteps.class
+transforms\MoneyConverter.class

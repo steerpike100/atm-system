@@ -1,5 +1,7 @@
+nicebank\AtmServer.class
 nicebank\Teller.class
-nicebank\Account.class
 nicebank\Money.class
+nicebank\AutomatedTeller.class
 nicebank\CashSlot.class
-transforms\MoneyConverter.class
+nicebank\Account.class
+nicebank\AtmServlet.class

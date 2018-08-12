@@ -1,5 +1,7 @@
 C:\paxport-automation\atmsystem\src\main\java\nicebank\CashSlot.java
 C:\paxport-automation\atmsystem\src\main\java\nicebank\Account.java
-C:\paxport-automation\atmsystem\src\main\java\transforms\MoneyConverter.java
+C:\paxport-automation\atmsystem\src\main\java\nicebank\AtmServlet.java
 C:\paxport-automation\atmsystem\src\main\java\nicebank\Money.java
+C:\paxport-automation\atmsystem\src\main\java\nicebank\AtmServer.java
 C:\paxport-automation\atmsystem\src\main\java\nicebank\Teller.java
+C:\paxport-automation\atmsystem\src\main\java\nicebank\AutomatedTeller.java
