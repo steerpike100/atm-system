@@ -1,1 +1,5 @@
-RunTest.class
+nicebank\AccountSteps.class
+RunCukesTest.class
+support\KnowsTheDomain.class
+nicebank\TellerSteps.class
+nicebank\CashSlotSteps.class

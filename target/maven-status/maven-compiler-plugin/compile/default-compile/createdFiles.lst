@@ -1,2 +1,5 @@
-nicebank\Steps$Account.class
-nicebank\Steps.class
+nicebank\Teller.class
+nicebank\Account.class
+nicebank\Money.class
+nicebank\CashSlot.class
+transforms\MoneyConverter.class
